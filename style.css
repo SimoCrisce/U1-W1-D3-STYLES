@@ -1,0 +1,69 @@
+body {
+  font-family: "Merriweather", serif;
+}
+
+header {
+  justify-content: center;
+  width: 50%;
+  margin-inline: auto;
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #d6f7f6;
+}
+
+.container-main {
+  justify-content: center;
+  margin-inline: auto;
+  width: 50%;
+}
+
+figure {
+  margin: 0;
+}
+
+.focaccia {
+  display: inline-block;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.anteprima {
+  color: rgb(0, 77, 76);
+  background-color: #fdfbf1;
+  justify-content: center;
+  padding-block: 20px;
+  border-top: 2px solid #ffdc85;
+  text-align: center;
+}
+
+figcaption {
+  color: #999999;
+  justify-content: center;
+  text-align: center;
+  padding-block: 20px;
+}
+
+a {
+  color: #107777;
+}
+
+.featured {
+  color: #b5460f;
+  padding-left: 15px;
+  border-left: 2px solid #ffdc85;
+}
+
+.logo {
+  width: 30%;
+}
